@@ -7,6 +7,6 @@ export default defineConfig({
   base: '/sample-react-app/',
   plugins: [react()],
   test: {
-    environment: 'jsdom'
-  }
+    environment: 'jsdom',
+  },
 })
