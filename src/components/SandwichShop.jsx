@@ -9,7 +9,7 @@ import Typography from '@mui/material/Typography'
 function SandwichShop(props) {
   const { name, image, description } = props
   return (
-    <Card sx={{ width: 300 }}>
+    <Card sx={{ width: 350, height: '100%' }}>
       <CardHeader title={name} />
       <CardMedia
         component="img"
