@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/sample-react-app/',
+  base: '/tokyo-sandwiches/',
   plugins: [react()],
   test: {
     environment: 'jsdom',

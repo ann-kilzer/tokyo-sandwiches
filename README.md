@@ -1,4 +1,4 @@
-# sample-react-app
+# tokyo-sandwiches
 
 Here's a basic React App to help you build a website quickly
 
@@ -28,7 +28,7 @@ npm i
 npm run dev
 ```
 
-3. View it in the browser http://localhost:5173/sample-react-app
+3. View it in the browser http://localhost:5173/tokyo-sandwiches
 
 ## Run unit tests
 
@@ -40,7 +40,7 @@ npm run test
 
 1. In `vite.config.ts` file add your repository name in `base`.
 ```ts
-  base: '/sample-react-app/',
+  base: '/tokyo-sandwiches/',
 ```
 2. In `package.json` edit `homepage` adding your GitHub username and repository name.
 3. Build your website by running `npm run build` command.
